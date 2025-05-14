@@ -1,0 +1,32 @@
+---,bIsHoldTwoHand,damage,DEF,attackRange,attackCooldown,shape,anim,attackSelector,weight,cost,name,description
+W2_0,TRUE,0,0,0,0,None,/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_EnemyManny.ABP_EnemyManny_C',0,0,0,장비해제,맨손으로는 싸울 수 없다
+W2_1,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon2.BP_TestTwoWeapon2_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(1,2,8,9,10)",400,100,롱소드,"기본적인 롱소드
+다양한 공격을 사용한다"
+W2_2,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon7.BP_TestTwoWeapon7_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(0,3,5)",400,100,톱날검,"칼날이 톱날같은 형태인 검
+베는 공격에 특화되어 있다"
+W2_3,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon4.BP_TestTwoWeapon4_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(3,4,5,6,11,12)",400,100,단안검,"불길한 눈알이 박혀있는 검
+사용자는 상대에게 돌진하려고 한다"
+W2_4,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon5.BP_TestTwoWeapon5_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(7,8,9,10,11,12)",400,100,화염검,"불의 힘으로 검신이 달아오른 검
+찌르는 공격으로 사용하면 효과가 좋다"
+W2_5,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon.BP_TestTwoWeapon_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(0,4,6,7,8)",400,100,혼돈의 검,"혼돈의 신들의 마크를 붙인 검
+연속공격을 주력으로 사용한다."
+W2_6,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon1.BP_TestTwoWeapon1_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(3,4,5,6)",350,100,크리스탈 메이스,"크리스탈을 사용한 메이스
+비교적 가볍다"
+W2_7,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon6.BP_TestTwoWeapon6_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(0,1,2,3,4,5,6)",350,100,철퇴,"원형 추에 돌출부를 더해 파괴력을 높였다.
+무게를 이용해 상대를 분쇄한다"
+W2_8,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon9.BP_TestTwoWeapon9_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(0,1,2,3,4,5,6)",350,100,윙 메이스,"독특한 형태의 메이스
+휘두를때마다 바람소리가 심하게 난다"
+W2_9,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon8.BP_TestTwoWeapon8_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(0,1,2,3,4,5,6)",350,100,팬촉,"끝이 뾰족해서 팬촉이라 불리는 메이스
+찌르기에는 적합하지 않다"
+W2_10,TRUE,100,10,150,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TCWeapon/BP_TestTwoWeapon3.BP_TestTwoWeapon3_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandCloseAnim.ABP_TwoHandCloseAnim_C',"(0,1,2,3,4,5,6)",350,100,데몬 메이스,"악마의 얼굴이 새겨진 메이스
+이 세상의 물건이 아닌것 처럼 무겁다"
+W2_11,TRUE,100,10,500,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TLWeapon/BP_TLWeapon.BP_TLWeapon_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandLongAnim.ABP_TwoHandLongAnim_C',"(0,1,2)",300,100,균형의 스테프,"바람의 마법탄을 뿌린다.
+중량 마법무기의 기초"
+W2_12,TRUE,100,10,500,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TLWeapon/BP_TLWeapon1.BP_TLWeapon1_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandLongAnim.ABP_TwoHandLongAnim_C',"(0,1,2)",300,100,반짝임의 스테프,"대량의 물을 뿜어내는 스테프
+짧은 거리에 물의 탄환을 흩뿌린다"
+W2_13,TRUE,100,10,500,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TLWeapon/BP_TLWeapon2.BP_TLWeapon2_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandLongAnim.ABP_TwoHandLongAnim_C',"(0,1,2)",300,100,천둥의 스테프,"번개를 불러오는 스테프
+넓은 범위에 전기 폭풍을 불러온다"
+W2_14,TRUE,100,10,500,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TLWeapon/BP_TLWeapon3.BP_TLWeapon3_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandLongAnim.ABP_TwoHandLongAnim_C',"(0,1,2)",300,100,악마의 스테프,"암흑탄을 흩뿌리는 스테프
+암흑탄은 느린 속도로 압박해 온다"
+W2_15,TRUE,100,10,500,10,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/TLWeapon/BP_TLWeapon4.BP_TLWeapon4_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_TwoHandLongAnim.ABP_TwoHandLongAnim_C',"(0,1,2)",300,100,불꽃의 스테프,"화염탄을 발사하는 스테프
+맞은자는 강력한 화염에 휩싸인다"

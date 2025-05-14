@@ -1,0 +1,32 @@
+---,bIsHoldTwoHand,damage,DEF,attackRange,attackCooldown,shape,anim,attackSelector,weight,cost,name,description
+W1_0,FALSE,0,0,0,0,None,/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_EnemyManny.ABP_EnemyManny_C',0,0,0,장비해제,맨손으로는 공격할 수 없다
+W1_1,FALSE,6,0,150,2,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon2.BP_TestWeapon2_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(1,5)",120,11,원형도끼,"독특한 형태의 손도끼
+위력은 낮다"
+W1_2,FALSE,9,0,150,5,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon4.BP_TestWeapon4_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(1,5)",140,10,해골도끼,"해골 장식이 인상적인 손도끼
+기본에 충실하다"
+W1_3,FALSE,7,0,150,4,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon3.BP_TestWeapon3_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(0,2)",100,11,룬 도끼,"룬의 효과로 경량화된 손도끼
+가벼운 움직임이 가능하다"
+W1_4,FALSE,8,0,150,3,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon1.BP_TestWeapon1_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(0,3,5)",130,10,휘어진 손 도끼,"휘두르기 편하게 굽어진 손도끼
+독특한 움직임이 가능하다"
+W1_5,FALSE,10,0,150,5,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon.BP_TestWeapon_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(1,5)",150,12,토마호크,"무거운 양날도끼
+강력한 공격력이 자랑"
+W1_6,FALSE,15,0,150,2,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon5.BP_TestWeapon5_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(0,2)",80,15,돌 단검,"돌을 깍아 만든 단검
+없는 것 보단 낫다"
+W1_7,FALSE,15,0,150,2,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon6.BP_TestWeapon6_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(0,2)",80,15,가벼운 단검,"날렵한 단검
+기본에 충실하다"
+W1_8,FALSE,15,0,150,2,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon7.BP_TestWeapon7_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(1,2,4)",80,15,양날 단검,"나무손잡이 단검
+연속공격에 특화"
+W1_9,FALSE,15,0,150,2,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon8.BP_TestWeapon8_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(0,6)",80,15,외눈 단검,"불길한 눈 장식이 붙은 단검
+사용자는 왠지 집요하게 목을 노린다"
+W1_10,FALSE,15,0,150,2,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OCWeapon/BP_TestWeapon9.BP_TestWeapon9_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandCloseAnim.ABP_OneHandCloseAnim_C',"(0,1,4)",80,15,무거운 단검,"분리된 2개의 칼날이 위협적인 단검
+높은 공격력이 자랑"
+W1_11,FALSE,20,0,1000,6,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OLWeapon/BP_OLWeapon.BP_OLWeapon_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandLongAnim.ABP_OneHandLongAnim_C',"(0,1,2)",100,10,빛의 완드,"빛마법을 사용할 수 있는 완드
+위력은 낮다"
+W1_12,FALSE,20,0,1000,6,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OLWeapon/BP_OLWeapon1.BP_OLWeapon1_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandLongAnim.ABP_OneHandLongAnim_C',"(0,1,2)",150,10,나무 완드,"바람마법을 사용할 수 있는 완드
+빠른 탄속이 자랑"
+W1_13,FALSE,20,0,1000,6,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OLWeapon/BP_OLWeapon2.BP_OLWeapon2_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandLongAnim.ABP_OneHandLongAnim_C',"(0,1,2)",120,10,얼음 완드,"얼음마법을 사용할 수 있는 완드
+얼음탄은 살짝 지연된뒤 날아간다"
+W1_14,FALSE,20,0,1000,6,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OLWeapon/BP_OLWeapon3.BP_OLWeapon3_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandLongAnim.ABP_OneHandLongAnim_C',"(0,1,2)",130,10,해골 완드,"어둠마법을 사용할 수 있는 완드
+느린 탄속은 탄막을 펼치는데 적합하다"
+W1_15,FALSE,20,0,1000,6,/Script/Engine.BlueprintGeneratedClass'/Game/CHR/Blueprints/OLWeapon/BP_OLWeapon4.BP_OLWeapon4_C',/Script/Engine.AnimBlueprintGeneratedClass'/Game/CHR/Blueprints/ABPs/ABP_OneHandLongAnim.ABP_OneHandLongAnim_C',"(0,1,2)",110,10,번개 완드,"전기마법을 사용할 수 있는 완드
+공격력이 높다"
