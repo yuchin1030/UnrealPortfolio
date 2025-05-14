@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_5.4\Engine\Binaries\Win64\UnrealEditor.exe" "C:\Users\admin\Documents\GitHub\Challengers\Challengers.uproject" -game -ResX=1200 -ResY=800 -WinX=0 -WinY=100 -log
